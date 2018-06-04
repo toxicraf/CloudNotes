@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darker_blue"
+    android:orientation="vertical"
+    android:padding="8dip" >
+
+    <!-- Title Label -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"               
+    	android:textAppearance="?android:attr/textAppearanceLarge"  />
+
+    <!-- Input Title -->
+
+    <EditText
+        android:id="@+id/inputTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:singleLine="true" />
+
+   <!-- Description Label -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"               
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <!-- Input description -->
+
+    <EditText
+        android:id="@+id/inputDesc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.75"
+        android:background="@color/White"
+        android:gravity="top"
+        android:lines="4" />
+
+    <!-- Button Create Note -->
+
+    <Button
+        android:id="@+id/btnCreateNote"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:background="@color/black"
+        android:text="Add Note"
+        android:textColor="@color/White" />
+
+</LinearLayout>

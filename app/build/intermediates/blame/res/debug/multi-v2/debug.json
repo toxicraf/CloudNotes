@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "595,886",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "881,1041"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,13,6,10,11,8,7,9,14,3,2,4",
+                        "startColumns": "1,1,4,4,4,4,4,4,1,4,4,4",
+                        "startOffsets": "480,517,214,389,435,299,254,345,555,106,56,163",
+                        "endColumns": "36,37,39,43,43,45,44,43,44,52,48,45",
+                        "endOffsets": "515,553,249,428,474,340,294,384,598,154,100,204"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,136,176,220,264,310,355,399,447,500,549",
+                        "endColumns": "39,40,39,43,43,45,44,43,47,52,48,45",
+                        "endOffsets": "90,131,171,215,259,305,350,394,442,495,544,590"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darker_blue"
+    android:orientation="vertical"
+    android:padding="8dip" >
+
+    <!-- Name Label -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Note"                      
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <!-- Input Title -->
+
+    <EditText
+        android:id="@+id/inputTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:foreground="@color/black"
+        android:singleLine="true" />
+
+    <!-- Description Label -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"                      
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <!-- Input description -->
+
+    <EditText
+        android:id="@+id/inputDesc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3.0"
+        android:background="@color/White"
+        android:gravity="top"   
+        android:inputType="textMultiLine|textNoSuggestions"
+        android:paddingBottom="5dip" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:orientation="horizontal" >
+
+        <!-- Button Create Product -->
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/black"
+            android:text="Save Changes"
+            android:textColor="@color/White" />
+
+        <!-- Button Create Product -->
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="@color/black"
+            android:paddingLeft="20dp"
+            android:text="Delete"
+            android:textColor="@color/White" />
+
+    </LinearLayout>
+
+</LinearLayout>

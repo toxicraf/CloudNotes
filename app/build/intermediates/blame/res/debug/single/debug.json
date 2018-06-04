@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_note.xml.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\layout\\edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_note.xml.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\layout\\add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_notes.xml.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\layout\\all_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zoran\\AndroidStudioProjects\\CloudNotes\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

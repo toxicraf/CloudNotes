@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\2290903e66069872944aa2d027229b5a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\2290903e66069872944aa2d027229b5a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\2290903e66069872944aa2d027229b5a\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:5-43
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:11:5-43:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\2290903e66069872944aa2d027229b5a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\2290903e66069872944aa2d027229b5a\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:15:9-40
+activity#rs.in.raf1.Main
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:18:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:22:27-74
+activity#rs.in.raf1.AllNotes
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:29:13-38
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:28:13-37
+activity#rs.in.raf1.NewNote
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:35:13-41
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:34:13-36
+activity#rs.in.raf1.EditNote
+ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from C:\Users\Zoran\AndroidStudioProjects\CloudNotes\app\src\main\AndroidManifest.xml:40:13-37
