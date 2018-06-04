@@ -5,8 +5,9 @@
     android:layout_height="fill_parent"
     android:background="@color/dark_blue"
     android:orientation="vertical"
-    android:paddingLeft="1dp"
-    android:paddingRight="10dp">
+    android:paddingLeft="2dp"
+    android:paddingRight="5dp"
+    android:paddingTop="2dp">
 
     <!-- Main ListView
 		 Always give id value as list(@android:id/list)
@@ -15,8 +16,8 @@
         android:id="@android:id/list"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:background="@color/pale_blue"
-        android:divider="@color/dark_gray"
+        android:background="@color/White"
+        android:divider="@color/darker_blue"
         android:dividerHeight="2dip" />
 
 </LinearLayout>
