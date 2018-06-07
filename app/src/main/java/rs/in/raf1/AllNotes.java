@@ -11,7 +11,10 @@ import org.json.JSONObject;
 
 import android.app.ListActivity;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
@@ -22,6 +25,7 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class AllNotes extends ListActivity {
 
@@ -66,6 +70,8 @@ public class AllNotes extends ListActivity {
 			@Override
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
+
+
 				// getting values from selected ListItem
 				String nid = ((TextView) view.findViewById(R.id.nid)).getText()
 						.toString();
@@ -75,7 +81,7 @@ public class AllNotes extends ListActivity {
 						EditNote.class);
 				// sending id to next activity
 				in.putExtra(TAG_NID, nid);
-				
+
 				// starting new activity and expecting some response back
 				startActivityForResult(in, 100);
 			}
